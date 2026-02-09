@@ -10,8 +10,9 @@ The project consists of 3 components:
 2. a hosted instance of the website
 3. images to share in physical pages*
 
-*these images should be easily downloadable for visitors. They should be printed in the form of stickers, calling more people to the cause. We hope to level the plahing field by engaging in physical spaces
+*these images should be easily downloadable for visitors. They should be printed in the form of stickers, calling more people to the cause. We hope to level the plahing field by engaging in physical space.
 
 # Community
 This project is open source in nature. We want to engage people in their own language as much as possible. Platforms keep changing their ways to delete them, using dark patterns to retain users.
 By crowd sourcing knowledge of determined people we hope to keep the systems up to date
+Contributing to the cause is easy: spend as much money as you like to print some stickers and spread them around whereever you go! Everyone can do it.
