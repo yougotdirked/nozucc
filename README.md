@@ -10,7 +10,7 @@ The project consists of 3 components:
 2. a hosted instance of the website
 3. images to share in physical pages*
 
-*these images should be easily downloadable for visitors. They should be printed in the form of stickers, calling more people to the cause. We hope to level the plahing field by engaging in physical space.
+*These images should be easily downloadable for visitors. They should be printed in the form of stickers, calling more people to the cause. We hope to level the playing field by engaging in physical space.
 
 # Community
 This project is open source in nature. We want to engage people in their own language as much as possible. Platforms keep changing their ways to delete them, using dark patterns to retain users.
